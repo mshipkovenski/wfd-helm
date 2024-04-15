@@ -15,5 +15,5 @@ entries:
     name: where-for-dinner
     type: application
     urls:
-    - https://github.com/mshipkovenski/wfd-helm/blob/main/where-for-dinner-helm-chart-main.tar.gz
+    - https://mshipkovenski.github.io/where-for-dinner/where-for-dinner-helm-chart-main.tar.gz
     version: 1.0.0
